@@ -1,0 +1,421 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 APR 2016 00:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template_Report.tex
+(./template_Report.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./template_Report.aux)
+\openout1 = `template_Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./latexInput.txt <20_librarian.png, id=1, 574.145pt x 413.545pt>
+File: 20_librarian.png Graphic file (type png)
+
+<use 20_librarian.png>
+Package pdftex.def Info: 20_librarian.png used on input line 3.
+(pdftex.def)             Requested size: 241.49895pt x 173.94643pt.
+ <06_banker.png, id=3, 567.11874pt x 371.3875pt>
+File: 06_banker.png Graphic file (type png)
+
+<use 06_banker.png>
+Package pdftex.def Info: 06_banker.png used on input line 7.
+(pdftex.def)             Requested size: 241.49895pt x 158.14644pt.
+ <42_sailor.png, id=4, 562.1pt x 404.51125pt>
+File: 42_sailor.png Graphic file (type png)
+
+<use 42_sailor.png>
+Package pdftex.def Info: 42_sailor.png used on input line 11.
+(pdftex.def)             Requested size: 241.49895pt x 173.79448pt.
+ [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./20
+_librarian.png> <./06_banker.png> <./42_sailor.png>]
+<25_driver.png, id=14, 597.23125pt x 374.39874pt>
+File: 25_driver.png Graphic file (type png)
+ <use 25_driver.png>
+Package pdftex.def Info: 25_driver.png used on input line 16.
+(pdftex.def)             Requested size: 241.49895pt x 151.39072pt.
+
+<22_hunter.png, id=15, 588.1975pt x 334.24875pt>
+File: 22_hunter.png Graphic file (type png)
+ <use 22_hunter.png>
+Package pdftex.def Info: 22_hunter.png used on input line 20.
+(pdftex.def)             Requested size: 241.49895pt x 137.23157pt.
+
+<09_musician.png, id=16, 583.17876pt x 391.4625pt>
+File: 09_musician.png Graphic file (type png)
+ <use 09_musician.png>
+Package pdftex.def Info: 09_musician.png used on input line 24.
+(pdftex.def)             Requested size: 241.49895pt x 162.10745pt.
+
+[2 <./25_driver.png> <./22_hunter.png> <./09_musician.png>]
+<21_judge.png, id=23, 569.12625pt x 360.34625pt>
+File: 21_judge.png Graphic file (type png)
+ <use 21_judge.png>
+Package pdftex.def Info: 21_judge.png used on input line 29.
+(pdftex.def)             Requested size: 241.49895pt x 152.90594pt.
+
+<10_singer.png, id=24, 570.13pt x 349.305pt>
+File: 10_singer.png Graphic file (type png)
+ <use 10_singer.png>
+Package pdftex.def Info: 10_singer.png used on input line 33.
+(pdftex.def)             Requested size: 241.49895pt x 147.95963pt.
+
+<19_lifeguard.png, id=25, 576.1525pt x 340.27126pt>
+File: 19_lifeguard.png Graphic file (type png)
+ <use 19_lifeguard.png>
+Package pdftex.def Info: 19_lifeguard.png used on input line 37.
+(pdftex.def)             Requested size: 241.49895pt x 142.62738pt.
+
+[3 <./21_judge.png> <./10_singer.png> <./19_lifeguard.png>]
+<26_electrician.png, id=32, 591.20876pt x 343.2825pt>
+File: 26_electrician.png Graphic file (type png)
+ <use 26_electrician.png>
+Package pdftex.def Info: 26_electrician.png used on input line 42.
+(pdftex.def)             Requested size: 241.49895pt x 140.22292pt.
+
+<41_doctor.png, id=33, 564.1075pt x 379.4175pt>
+File: 41_doctor.png Graphic file (type png)
+ <use 41_doctor.png>
+Package pdftex.def Info: 41_doctor.png used on input line 46.
+(pdftex.def)             Requested size: 241.49895pt x 162.43423pt.
+
+<17_poet.png, id=34, 566.115pt x 372.39125pt>
+File: 17_poet.png Graphic file (type png)
+ <use 17_poet.png>
+Package pdftex.def Info: 17_poet.png used on input line 50.
+(pdftex.def)             Requested size: 241.49895pt x 158.85797pt.
+ [4 <./26_electrician.png> <./41_doctor.png> <./17_poet.png>]
+<05_businessman.png, id=41, 581.17125pt x 430.60875pt>
+File: 05_businessman.png Graphic file (type png)
+
+<use 05_businessman.png>
+Package pdftex.def Info: 05_businessman.png used on input line 55.
+(pdftex.def)             Requested size: 241.49895pt x 178.93582pt.
+ <27_farmer.png, id=42, 583.17876pt x 357.335pt>
+File: 27_farmer.png Graphic file (type png)
+
+<use 27_farmer.png>
+Package pdftex.def Info: 27_farmer.png used on input line 59.
+(pdftex.def)             Requested size: 241.49895pt x 147.975pt.
+ <30_biologist.png, id=43, 591.20876pt x 386.44376pt>
+File: 30_biologist.png Graphic file (type png)
+
+<use 30_biologist.png>
+Package pdftex.def Info: 30_biologist.png used on input line 63.
+(pdftex.def)             Requested size: 241.49895pt x 157.8533pt.
+ [5 <./05_businessman.png> <./27_farmer.png> <./30_biologist.png>] <12_detectiv
+e.png, id=50, 569.12625pt x 363.3575pt>
+File: 12_detective.png Graphic file (type png)
+
+<use 12_detective.png>
+Package pdftex.def Info: 12_detective.png used on input line 68.
+(pdftex.def)             Requested size: 241.49895pt x 154.1837pt.
+ <13_tailor.png, id=51, 568.1225pt x 434.62375pt>
+File: 13_tailor.png Graphic file (type png)
+
+<use 13_tailor.png>
+Package pdftex.def Info: 13_tailor.png used on input line 72.
+(pdftex.def)             Requested size: 241.49895pt x 184.74911pt.
+ <32_captain.png, id=52, 589.20125pt x 404.51125pt>
+File: 32_captain.png Graphic file (type png)
+
+<use 32_captain.png>
+Package pdftex.def Info: 32_captain.png used on input line 76.
+(pdftex.def)             Requested size: 241.49895pt x 165.8013pt.
+ [6 <./12_detective.png> <./13_tailor.png> <./32_captain.png>] <04_pilot.png, i
+d=59, 563.10374pt x 341.275pt>
+File: 04_pilot.png Graphic file (type png)
+ <use 04_pilot.png>
+Package pdftex.def Info: 04_pilot.png used on input line 81.
+(pdftex.def)             Requested size: 241.49895pt x 146.36003pt.
+
+<01_policeman.png, id=60, 567.11874pt x 375.4025pt>
+File: 01_policeman.png Graphic file (type png)
+ <use 01_policeman.png>
+Package pdftex.def Info: 01_policeman.png used on input line 85.
+(pdftex.def)             Requested size: 241.49895pt x 159.85612pt.
+
+<35_conducter.png, id=61, 602.25pt x 440.64626pt>
+File: 35_conducter.png Graphic file (type png)
+ <use 35_conducter.png>
+Package pdftex.def Info: 35_conducter.png used on input line 89.
+(pdftex.def)             Requested size: 241.49895pt x 176.69914pt.
+
+[7 <./04_pilot.png> <./01_policeman.png> <./35_conducter.png>]
+<08_cleaningperson.png, id=69, 574.145pt x 391.4625pt>
+File: 08_cleaningperson.png Graphic file (type png)
+
+<use 08_cleaningperson.png>
+Package pdftex.def Info: 08_cleaningperson.png used on input line 94.
+(pdftex.def)             Requested size: 241.49895pt x 164.65802pt.
+
+<02_pharmacist.png, id=70, 561.09625pt x 362.35374pt>
+File: 02_pharmacist.png Graphic file (type png)
+ <use 02_pharmacist.png>
+Package pdftex.def Info: 02_pharmacist.png used on input line 98.
+(pdftex.def)             Requested size: 241.49895pt x 155.95836pt.
+
+<11_lumberjack.png, id=71, 561.09625pt x 387.4475pt>
+File: 11_lumberjack.png Graphic file (type png)
+ <use 11_lumberjack.png>
+Package pdftex.def Info: 11_lumberjack.png used on input line 102.
+(pdftex.def)             Requested size: 241.49895pt x 166.75879pt.
+
+[8 <./08_cleaningperson.png> <./02_pharmacist.png> <./11_lumberjack.png>]
+<37_astronaut.png, id=78, 566.115pt x 400.49625pt>
+File: 37_astronaut.png Graphic file (type png)
+ <use 37_astronaut.png>
+Package pdftex.def Info: 37_astronaut.png used on input line 107.
+(pdftex.def)             Requested size: 241.49895pt x 170.84726pt.
+
+<16_painter.png, id=79, 568.1225pt x 398.48875pt>
+File: 16_painter.png Graphic file (type png)
+ <use 16_painter.png>
+Package pdftex.def Info: 16_painter.png used on input line 111.
+(pdftex.def)             Requested size: 241.49895pt x 169.38892pt.
+
+<24_cook.png, id=80, 598.235pt x 380.42125pt>
+File: 24_cook.png Graphic file (type png)
+ <use 24_cook.png>
+Package pdftex.def Info: 24_cook.png used on input line 115.
+(pdftex.def)             Requested size: 241.49895pt x 153.57054pt.
+ [9 <./37_astronaut.png> <./16_painter.png> <./24_cook.png>]
+<29_gardener.png, id=87, 575.14874pt x 415.5525pt>
+File: 29_gardener.png Graphic file (type png)
+ <use 29_gardener.png>
+Package pdftex.def Info: 29_gardener.png used on input line 120.
+(pdftex.def)             Requested size: 241.49895pt x 174.48647pt.
+
+<33_carpenter.png, id=88, 588.1975pt x 376.40625pt>
+File: 33_carpenter.png Graphic file (type png)
+ <use 33_carpenter.png>
+Package pdftex.def Info: 33_carpenter.png used on input line 124.
+(pdftex.def)             Requested size: 241.49895pt x 154.54005pt.
+
+<15_plumber.png, id=89, 584.1825pt x 368.37625pt>
+File: 15_plumber.png Graphic file (type png)
+ <use 15_plumber.png>
+Package pdftex.def Info: 15_plumber.png used on input line 128.
+(pdftex.def)             Requested size: 241.49895pt x 152.28308pt.
+ [10 <./29_gardener.png> <./33_carpenter.png> <./15_plumber.png>]
+<31_butcher.png, id=96, 605.26125pt x 354.32375pt>
+File: 31_butcher.png Graphic file (type png)
+ <use 31_butcher.png>
+Package pdftex.def Info: 31_butcher.png used on input line 133.
+(pdftex.def)             Requested size: 241.49895pt x 141.37555pt.
+
+<14_tourist.png, id=97, 575.14874pt x 405.515pt>
+File: 14_tourist.png Graphic file (type png)
+ <use 14_tourist.png>
+Package pdftex.def Info: 14_tourist.png used on input line 137.
+(pdftex.def)             Requested size: 241.49895pt x 170.27182pt.
+
+<07_diver.png, id=98, 574.145pt x 342.27875pt>
+File: 07_diver.png Graphic file (type png)
+ <use 07_diver.png>
+Package pdftex.def Info: 07_diver.png used on input line 141.
+(pdftex.def)             Requested size: 241.49895pt x 143.97021pt.
+ [11 <./31_butcher.png> <./14_tourist.png> <./07_diver.png>]
+<23_hairdresser.png, id=105, 583.17876pt x 326.21875pt>
+File: 23_hairdresser.png Graphic file (type png)
+
+<use 23_hairdresser.png>
+Package pdftex.def Info: 23_hairdresser.png used on input line 146.
+(pdftex.def)             Requested size: 241.49895pt x 135.08954pt.
+ <43_dentist.png, id=106, 570.13pt x 361.35pt>
+File: 43_dentist.png Graphic file (type png)
+
+<use 43_dentist.png>
+Package pdftex.def Info: 43_dentist.png used on input line 150.
+(pdftex.def)             Requested size: 241.49895pt x 153.06169pt.
+ <39_baker.png, id=107, 568.1225pt x 346.29375pt>
+File: 39_baker.png Graphic file (type png)
+
+<use 39_baker.png>
+Package pdftex.def Info: 39_baker.png used on input line 154.
+(pdftex.def)             Requested size: 241.49895pt x 147.20195pt.
+ [12 <./23_hairdresser.png> <./43_dentist.png> <./39_baker.png>] <18_magician.p
+ng, id=114, 612.2875pt x 358.33875pt>
+File: 18_magician.png Graphic file (type png)
+ <use 18_magician.png>
+Package pdftex.def Info: 18_magician.png used on input line 159.
+(pdftex.def)             Requested size: 241.49895pt x 141.3372pt.
+
+<03_journalist.png, id=115, 562.1pt x 370.38374pt>
+File: 03_journalist.png Graphic file (type png)
+ <use 03_journalist.png>
+Package pdftex.def Info: 03_journalist.png used on input line 163.
+(pdftex.def)             Requested size: 241.49895pt x 159.13191pt.
+
+<40_nurse.png, id=116, 558.085pt x 373.395pt>
+File: 40_nurse.png Graphic file (type png)
+ <use 40_nurse.png>
+Package pdftex.def Info: 40_nurse.png used on input line 167.
+(pdftex.def)             Requested size: 241.49895pt x 161.57657pt.
+ [13 <./18_magician.png> <./03_journalist.png> <./40_nurse.png>]
+<38_athlete.png, id=124, 582.175pt x 332.24126pt>
+File: 38_athlete.png Graphic file (type png)
+ <use 38_athlete.png>
+Package pdftex.def Info: 38_athlete.png used on input line 172.
+(pdftex.def)             Requested size: 241.49895pt x 137.81671pt.
+
+<28_fireman.png, id=125, 594.22pt x 390.45876pt>
+File: 28_fireman.png Graphic file (type png)
+ <use 28_fireman.png>
+Package pdftex.def Info: 28_fireman.png used on input line 176.
+(pdftex.def)             Requested size: 241.49895pt x 158.68901pt.
+
+<34_clown.png, id=126, 577.15625pt x 412.54124pt>
+File: 34_clown.png Graphic file (type png)
+ <use 34_clown.png>
+Package pdftex.def Info: 34_clown.png used on input line 180.
+(pdftex.def)             Requested size: 241.49895pt x 172.61777pt.
+ [14 <./38_athlete.png> <./28_fireman.png> <./34_clown.png>]
+<36_architect.png, id=133, 590.205pt x 364.36125pt>
+File: 36_architect.png Graphic file (type png)
+ <use 36_architect.png>
+Package pdftex.def Info: 36_architect.png used on input line 185.
+(pdftex.def)             Requested size: 241.49895pt x 149.08328pt.
+)
+[15 <./36_architect.png>] (./template_Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1693 strings out of 493089
+ 25305 string characters out of 6134842
+ 77562 words of memory out of 5000000
+ 5152 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,5n,23p,241b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on template_Report.pdf (15 pages, 2002920 bytes).
+PDF statistics:
+ 144 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+
